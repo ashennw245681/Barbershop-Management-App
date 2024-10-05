@@ -1,0 +1,7 @@
+body {  
+  background-color: #121C24; /* Set the body background color */  
+  margin: 0; /* Optional: Remove default margin */  
+  padding: 0; /* Optional: Remove default padding */  
+  color: white; /* Optional: Set text color to white for visibility */  
+  font-family: Arial, sans-serif; /* Optional: Set a default font */  
+}
